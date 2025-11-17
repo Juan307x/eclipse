@@ -20,9 +20,6 @@ public int getEdad() {
 public void setEdad(int edad) {
 	this.edad = edad;
 }
-public String getRaza() {
-	return raza;
-}
 public void setRaza(String raza) {
 	this.raza = raza;
 }
@@ -38,4 +35,5 @@ public String toString() {
 
 	
 }
+
 
