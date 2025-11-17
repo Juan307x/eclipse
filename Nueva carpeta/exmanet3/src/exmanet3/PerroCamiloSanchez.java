@@ -6,9 +6,7 @@ private int edad;
 private String raza;
 public PerroCamiloSanchez(String nombre, int edad, String raza) {
 	super();
-	this.nombre = nombre;
-	this.edad = edad;
-	this.raza = raza;
+	
 }
 public String getNombre() {
 	return nombre;
@@ -40,3 +38,4 @@ public String toString() {
 
 	
 }
+
